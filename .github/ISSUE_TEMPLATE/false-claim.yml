@@ -1,0 +1,35 @@
+name: A stated guarantee is false
+description: The software claims something specific and does not do it
+labels: ["false-claim", "priority"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **This is the highest-value report you can file here.**
+
+        These projects make deliberately falsifiable claims — no telemetry, numbers carry
+        receipts, the same input yields the same answer. If one of those is false, it is treated
+        as more serious than an ordinary bug.
+
+        ⚠️ If the false claim exposes user data or misrepresents what is sent off the machine,
+        **stop and use private vulnerability reporting instead.**
+  - type: textarea
+    id: claim
+    attributes:
+      label: The claim
+      description: Quote it, and say where it is stated — README, docs, in-app text, this org.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: What you observed instead
+      description: The evidence that contradicts it. Exact output, captures, measurements.
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: How to reproduce your observation
+    validations:
+      required: true

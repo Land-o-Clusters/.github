@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/Land-o-Clusters/.github/security/policy
+    about: Do not open a public issue. Use private vulnerability reporting.
+  - name: Question or general discussion
+    url: https://github.com/penguinspecz
+    about: Not a bug? Reach out rather than filing an issue.
