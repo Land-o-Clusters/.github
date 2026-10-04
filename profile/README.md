@@ -2,7 +2,7 @@
 
 Building machines that show their work.
 
-### What lives here
+### Clusters of Choice
 
 - [Floati](https://github.com/Land-o-Clusters/floati) is a fleet operating system for local coding agents. Agents from any harness share one bus and one board, and every hand-off gets a receipt. It runs on macOS and is an early public cut.
 - [sleight](https://github.com/Land-o-Clusters/sleight) lets Claude Code drive your Mac apps in the background through the computer-use engine bundled with the ChatGPT desktop app, so your cursor stays yours. Its benchmark publishes every run, failures included. It's early and unofficial.
