@@ -9,6 +9,3 @@ Building machines that show their work.
 - [logijuice](https://github.com/Land-o-Clusters/logijuice) shows battery levels and sends low-battery alerts for Logitech devices on a Logi Bolt receiver, from the macOS menu bar, a widget or the command line.
 - Puddle is a tiny municipal government for your AI tooling. It tracks usage, cost, context pressure, leaky sessions and how much water it all theoretically drinks, and it doesn't send telemetry. It hasn't been released yet.
 - RoleGauge keeps a dated record of what employers post and reports only what that record can support. It's in private development.
-
-
-Drawn and built by Chris in St. Pete.
