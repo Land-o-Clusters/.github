@@ -1,4 +1,4 @@
-<img src="./assets/land-o-clusters-coast.jpg" alt="LAND O’ CLUSTERS lettered across a painted Gulf Coast sky at sunset, over a domed planetarium, palms, a café terrace and a breeze-block railing above the water" width="100%">
+<img src="https://raw.githubusercontent.com/Land-o-Clusters/.github/main/profile/assets/land-o-clusters-coast.jpg" alt="LAND O’ CLUSTERS lettered across a painted Gulf Coast sky at sunset, over a domed planetarium, palms, a café terrace and a breeze-block railing above the water" width="100%">
 
 Building machines that show their work.
 
